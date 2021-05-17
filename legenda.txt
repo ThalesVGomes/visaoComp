@@ -3,13 +3,23 @@ df = dia fora de casa
 nd = noite dentro de casa
 nf = noite fora de casa
 
-f1 = fundo 1
-f2 = fundo 2
-f3 = fundo 3
+f1 = fundo 1 = cinza
+f2 = fundo 2 = amarelo
+f3 = fundo 3 = branco
+f4 = fundo 4 = rosa
+f5 = fundo 5 = verde
 (os fundos podem nao ser os mesmos para objetos diferentes)
 
 objetos:
 palheta (de guitarra)
 vela
 pregador (de roupa)
+caneta
+faca
+maçã
+tesoura
+
+
+
 [poe os de vcs]
+
